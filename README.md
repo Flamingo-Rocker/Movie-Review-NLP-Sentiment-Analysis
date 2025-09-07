@@ -1,7 +1,7 @@
 # 🎬 Movie Review NLP Sentiment Analysis
 *Detecting **negative** reviews for The Film Junky Union with modern NLP pipelines and careful threshold tuning.*
 
-!![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
 ![pandas](https://img.shields.io/badge/pandas-EDA-green?logo=pandas)  
 ![numpy](https://img.shields.io/badge/numpy-Numerical-blue?logo=numpy)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)  
