@@ -1,0 +1,15 @@
+pandas==2.3.2
+numpy==2.2.5
+numpy-base==2.2.5            
+numpydoc==1.9.0            
+matplotlib==3.10.5           
+matplotlib-base==3.10.5           
+matplotlib-inline==0.1.6        
+plotly==6.3.0       
+tqdm==4.67.1
+scikit-learn==1.7.1
+lightgbm==4.6.0
+nltk==3.9.1
+spacy==3.8.7
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
