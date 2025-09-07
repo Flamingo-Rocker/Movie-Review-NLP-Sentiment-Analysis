@@ -1,16 +1,16 @@
 # 🎬 Movie Review NLP Sentiment Analysis
 *Detecting **negative** reviews for The Film Junky Union with modern NLP pipelines and careful threshold tuning.*
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![pandas](https://img.shields.io/badge/pandas-EDA-green?logo=pandas)
-![numpy](https://img.shields.io/badge/numpy-Numerical-blue?logo=numpy)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)
-![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-green)
-![NLTK](https://img.shields.io/badge/NLTK-Text%20Processing-yellow)
-![spaCy](https://img.shields.io/badge/spaCy-NLP-8A2BE2)
-![matplotlib](https://img.shields.io/badge/matplotlib-Visualization-orange)
-![tqdm](https://img.shields.io/badge/tqdm-ProgressBars-yellow)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+!![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
+![pandas](https://img.shields.io/badge/pandas-EDA-green?logo=pandas)  
+![numpy](https://img.shields.io/badge/numpy-Numerical-blue?logo=numpy)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)  
+![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-green)  
+![NLTK](https://img.shields.io/badge/NLTK-Text%20Processing-yellow)  
+![spaCy](https://img.shields.io/badge/spaCy-NLP-8A2BE2)  
+![matplotlib](https://img.shields.io/badge/matplotlib-Visualization-orange)  
+![tqdm](https://img.shields.io/badge/tqdm-ProgressBars-yellow)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
