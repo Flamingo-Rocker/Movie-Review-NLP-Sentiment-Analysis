@@ -76,9 +76,9 @@ Two parallel preprocessing tracks are evaluated:
 ```
 movie-review-nlp-sentiment/
 ├── notebooks/ <- Final cleaned Jupyter notebook
-├── data/ <- Data or pointer to source (if permitted)
+├── data/ <- Source data
 ├── requirements.txt <- Dependencies (may include conda-pinned packages)
-├── LICENSE <- MIT (or your choice)
+├── LICENSE <- MIT
 └── README.md <- This file
 ```
 
